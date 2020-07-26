@@ -1,0 +1,51 @@
+body {
+  background-color: blue;
+}
+
+h2 {
+  background-color: red;
+  border-radius: 5px;
+  height: 100px;
+  line-height: 100px;
+  color: rgb(211, 208, 208);
+  margin: 0;
+  padding-left: 10px;
+}
+
+#side-navbar {
+  background-color: rgb(60, 235, 235);
+  width: 250px;
+  border-radius: 5px;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 25px;
+}
+#side-navbar p {
+  padding-top: 10px;
+  padding-left: 5px;
+}
+
+#list-items {
+  background-color: rgb(34, 34, 61);
+  height: 685px;
+  width: 629px;
+  border-radius: 5px;
+  color: rgb(211, 211, 211);
+  display: inline-block;
+  padding: 15px;
+  margin-top: 25px;
+  margin-left: 25px;
+}
+
+#list-items li {
+  padding: 10px 0px;
+}
+
+footer {
+  background-color: gray;
+  height: 50px;
+  line-height: 50px;
+  border-radius: 5px;
+  padding-left: 5px;
+  color: #fff;
+}
